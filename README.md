@@ -1,6 +1,15 @@
-# ds-project-template
+# EDA Project_1
 
-Template for creating ds simple projects
+Project to exploratory data analysis of King County Property Sales data, from 2014 to 2015
+
+## Stakeholder and Requirements:
+
+Buyer: Erin Robinson
+Wants to invest in poor neighborhood
+Interested in buying and selling
+Wants to only get invested costs back and a little profit
+Socially responsible
+
 
 ## Requirements
 
